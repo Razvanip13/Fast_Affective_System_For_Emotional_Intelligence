@@ -1,0 +1,4 @@
+service/trained_models/*
+interceptor/*
+idea/*
+__pycache__/*
