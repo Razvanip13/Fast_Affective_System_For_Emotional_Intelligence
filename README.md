@@ -24,7 +24,7 @@ For speech detection we used RAVDESS.
 For more information about the two datasets, please read the <b> Documentation </b>!
 <img src="/images/fer2013.PNG" display="center">
 
-## AI
+## AI Notebooks
 
 The two models are public on Kaggle. For those who want to use my system, you will need to retrain the models from scratch and include them in the AI API. Here are the notebooks for the facial model and the speech model: 
 
