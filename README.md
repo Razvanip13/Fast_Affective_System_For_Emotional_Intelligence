@@ -45,3 +45,9 @@ pip install requirements.txt
 ```
 
 For the client, Vue.js 2.0 with Vuetify and Chart.js will be required. It is expected from you to configure the Vue.js environment such that the components provided in the <b> Client </b> folder to work properly. 
+
+
+
+# Disclaimer:
+
+This was my project for my Bachelor's thesis. Anyone who will continue my work for their thesis will be accused of plagiarism.
