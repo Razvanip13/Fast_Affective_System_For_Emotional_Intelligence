@@ -6,4 +6,21 @@ This was my final project for the Bachelor's Thesis. It is a system that can mon
 
 ## Architecture
 
+There are two APIs and one client. The AI API can be accessed only through requests to the CRUD API. That is because 
 
+
+<img src="/images/deployment_diagram.PNG" display="center">
+
+## Emotional Charts
+
+<img src="/images/emotional_charts_horizonally.png" display="center">
+
+## Datasets
+
+<img src="/images/fer2013.PNG" display="center">
+
+## Technologies
+
+
+
+## Requirements
