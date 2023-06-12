@@ -6,8 +6,7 @@ This was my final project for the Bachelor's Thesis. It is a system that can mon
 
 ## Architecture
 
-There are two APIs and one client. The AI API can be accessed only through requests to the CRUD API. That is because 
-
+There are two APIs and one client. The AI API can be accessed only through requests to the CRUD API. That offers more scalability as if by instance somebody wants to implement their own AI in this project, they can connect the CRUD API requests to their own API
 
 <img src="/images/deployment_diagram.PNG" display="center">
 
