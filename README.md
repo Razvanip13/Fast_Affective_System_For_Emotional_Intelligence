@@ -26,6 +26,20 @@ For more information about the two datasets, please read the <b> Documentation <
 
 ## Technologies
 
-
+```
+- FastAPI
+- PostgreSQL 
+- SQLModel
+- Vue.js 2.0
+- Vuetify 
+- TensorFlow
+- CV2 
+```
 
 ## Requirements
+
+We recommend a conda environment, but if you prefer a pip environment, you can install everything required for the APIs by using the requirements file:
+
+```
+pip install requirements.txxt
+```
