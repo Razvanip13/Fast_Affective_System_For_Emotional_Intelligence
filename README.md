@@ -41,5 +41,7 @@ For more information about the two datasets, please read the <b> Documentation <
 We recommend a conda environment, but if you prefer a pip environment, you can install everything required for the APIs by using the requirements file:
 
 ```
-pip install requirements.txxt
+pip install requirements.txt
 ```
+
+For the client, Vue.js 2.0 with Vuetify and Chart.js will be required. It is expected from you to configure the Vue.js environment such that the components provided in the <b> Client </b> folder to work properly. 
