@@ -17,7 +17,9 @@ The system monitors people's emotions while taking online tests. While solving t
 <img src="/images/emotional_charts_horizonally.png" display="center">
 
 ## Datasets
-
+For facial detection we used FER2013. 
+For speech detection we used RAVDESS. 
+For more information about the two datasets, please read the <b> Documentation </b>!
 <img src="/images/fer2013.PNG" display="center">
 
 ## Technologies
