@@ -12,6 +12,8 @@ There are two APIs and one client. The AI API can be accessed only through reque
 
 ## Emotional Charts
 
+The system monitors people's emotions while taking online tests. While solving the test, a thread is open and periodically it takes capture of the web camera, sending them to the CRUD API through base64 format, ending up to the AI API and predicting the emotion for that capture. The same flow is applied for the speech channel, with the only difference that the user will need to press a button in order to register their answer. 
+
 <img src="/images/emotional_charts_horizonally.png" display="center">
 
 ## Datasets
